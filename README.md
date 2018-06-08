@@ -1,5 +1,10 @@
 # tensorflow-serving-client4j
 
+## Dependences
+[tensorflow/serving:1.7.0](https://github.com/tensorflow/serving/tree/1.7.0)
+[tensorflow/tensorflow:v1.7.0](https://github.com/tensorflow/tensorflow/tree/v1.7.0)
+[grpc/grpc-java:v1.12.0](https://github.com/grpc/grpc-java/tree/v1.12.0)
+
 ## Install
 ```bash
 mvn protobuf:compile
